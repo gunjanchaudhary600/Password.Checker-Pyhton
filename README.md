@@ -18,11 +18,8 @@ This project is a simple Password Strength Checker built using Python. It evalua
 - Through this project, I learned:
 - Python conditional statements
 - String handling
+- Logical operations
+- Basic cybersecurity validation concepts
 
-- Gunjan Chaudhary
+Gunjan Chaudhary
 [Aspiring Data Analyst | Python Learner]
-
-
-Logical operations
-
-Basic cybersecurity validation concepts
